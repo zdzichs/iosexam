@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "answers": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "123fraasd",
+      "result": "hello"
+    },
+     {
+      "id": "123fraase",
+      "result": "world"
     }
   ],
   "profile": {
